@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_151" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.mycompany.spe.ClassInfo">
+    <void property="classInterface">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="className">
+     <string>ClassInfo</string>
+    </void>
+    <void property="fields">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="methods">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <string>getFields</string>
+      </void>
+      <void method="add">
+       <string>getMethods</string>
+      </void>
+      <void method="add">
+       <string>getClassName</string>
+      </void>
+      <void method="add">
+       <string>getProviders</string>
+      </void>
+      <void method="add">
+       <string>setClassName</string>
+      </void>
+      <void method="add">
+       <string>setFields</string>
+      </void>
+      <void method="add">
+       <string>setProviders</string>
+      </void>
+      <void method="add">
+       <string>setMethods</string>
+      </void>
+      <void method="add">
+       <string>setClassInterface</string>
+      </void>
+      <void method="add">
+       <string>getSuperClassName</string>
+      </void>
+      <void method="add">
+       <string>getClassInterface</string>
+      </void>
+      <void method="add">
+       <string>setSuperClassName</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>equals</string>
+      </void>
+      <void method="add">
+       <string>toString</string>
+      </void>
+      <void method="add">
+       <string>hashCode</string>
+      </void>
+      <void method="add">
+       <string>getClass</string>
+      </void>
+      <void method="add">
+       <string>notify</string>
+      </void>
+      <void method="add">
+       <string>notifyAll</string>
+      </void>
+     </object>
+    </void>
+    <void property="providers">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="superClassName">
+     <string>Object</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.spe.ClassInfo">
+    <void property="classInterface">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="className">
+     <string>ClassReflection</string>
+    </void>
+    <void property="fields">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="methods">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <string>main</string>
+      </void>
+      <void method="add">
+       <string>getClassName</string>
+      </void>
+      <void method="add">
+       <string>getClassFields</string>
+      </void>
+      <void method="add">
+       <string>getClassMethods</string>
+      </void>
+      <void method="add">
+       <string>getInterfaceName</string>
+      </void>
+      <void method="add">
+       <string>getClassClients</string>
+      </void>
+      <void method="add">
+       <string>getSuperClassName</string>
+      </void>
+      <void method="add">
+       <string>getClassProviders</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>equals</string>
+      </void>
+      <void method="add">
+       <string>toString</string>
+      </void>
+      <void method="add">
+       <string>hashCode</string>
+      </void>
+      <void method="add">
+       <string>getClass</string>
+      </void>
+      <void method="add">
+       <string>notify</string>
+      </void>
+      <void method="add">
+       <string>notifyAll</string>
+      </void>
+     </object>
+    </void>
+    <void property="providers">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="superClassName">
+     <string>Object</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.spe.ClassInfo">
+    <void property="classInterface">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="className">
+     <string>PackageExplorer</string>
+    </void>
+    <void property="fields">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="methods">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <string>main</string>
+      </void>
+      <void method="add">
+       <string>listFilesForFolder</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>equals</string>
+      </void>
+      <void method="add">
+       <string>toString</string>
+      </void>
+      <void method="add">
+       <string>hashCode</string>
+      </void>
+      <void method="add">
+       <string>getClass</string>
+      </void>
+      <void method="add">
+       <string>notify</string>
+      </void>
+      <void method="add">
+       <string>notifyAll</string>
+      </void>
+     </object>
+    </void>
+    <void property="providers">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="superClassName">
+     <string>Object</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.spe.ClassInfo">
+    <void property="classInterface">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="className">
+     <string>PageMain</string>
+    </void>
+    <void property="fields">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="methods">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>equals</string>
+      </void>
+      <void method="add">
+       <string>toString</string>
+      </void>
+      <void method="add">
+       <string>hashCode</string>
+      </void>
+      <void method="add">
+       <string>getClass</string>
+      </void>
+      <void method="add">
+       <string>notify</string>
+      </void>
+      <void method="add">
+       <string>notifyAll</string>
+      </void>
+     </object>
+    </void>
+    <void property="providers">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="superClassName">
+     <string>Object</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.spe.ClassInfo">
+    <void property="classInterface">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="className">
+     <string>XmlWritter</string>
+    </void>
+    <void property="fields">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="methods">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <string>write</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>wait</string>
+      </void>
+      <void method="add">
+       <string>equals</string>
+      </void>
+      <void method="add">
+       <string>toString</string>
+      </void>
+      <void method="add">
+       <string>hashCode</string>
+      </void>
+      <void method="add">
+       <string>getClass</string>
+      </void>
+      <void method="add">
+       <string>notify</string>
+      </void>
+      <void method="add">
+       <string>notifyAll</string>
+      </void>
+     </object>
+    </void>
+    <void property="providers">
+     <object class="java.util.ArrayList"/>
+    </void>
+    <void property="superClassName">
+     <string>Object</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
